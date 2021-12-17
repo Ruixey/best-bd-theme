@@ -3,6 +3,8 @@
 @import"https://codedotspectra.github.io/themes/core/hljs.css";
 @import"https://codedotspectra.github.io/themes/core/custom-font.css";
 :root {
+    --homeImage: url('https://i.imgur.com/kT5N2zO.png%27);
+    --homeImageSize: cover;
     --backgroundColor01: #1e2731;
     --backgroundColor02: #12171d;
     --mainColor: #2275c9;
